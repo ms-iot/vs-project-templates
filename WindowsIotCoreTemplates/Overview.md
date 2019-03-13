@@ -1,6 +1,6 @@
-**ONLY FOR USE WITH VISUAL STUDIO 2017**
+**Compatible with both Visual Studio 2017 and 2019**
 
-(for Visual Studio 2015: [https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates](https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates "https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates"))
+(For Visual Studio 2015: [https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates](https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates "https://marketplace.visualstudio.com/items?itemName=MicrosoftIoT.WindowsIoTCoreProjectTemplates"))
 
 This package contains project templates for Windows IoT Core Applications
 
@@ -24,17 +24,9 @@ Universal Windows Platform (UWP) templates are provided to enable headless Backg
 
 ![](/images/cpp_back.png)
 
-**Javascript**
-
-![](/images/js_back.png)
-
 To enable **console applications**, a C++ template is provided
 
 ![](/images/console.png)
-
-**Arduino Wiring Project**
-
-![](/images/wiring.png)
 
 With these templates, unlock the power of Windows on devices! 
 
